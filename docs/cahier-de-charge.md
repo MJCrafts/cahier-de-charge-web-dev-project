@@ -3,8 +3,8 @@
 - **Nom du projet** : [Nom]
 - **Objectif** : [Résumé des buts du projet]
 - **Public cible** :
-  Utilisateurs: 
-  Plateformes visées : ordinateurs, tablettes, smartphones.
+Utilisateurs: 
+Plateformes visées : ordinateurs, tablettes, smartphones.
 
 ## 2. Fonctionnalités
 - Fonctionnalité 1 : Description
